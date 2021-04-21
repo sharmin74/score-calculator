@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+.container {
+    margin-top: 6rem;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.main-1 {
+    margin-bottom: 5px;
+}
+
+button {
+    background-color: aquamarine;
+    border: none;
+    width: 7rem;
+    height: 3rem;
+    border-radius: 5px;
+    cursor: pointer;
+    /* outline: none; */
+}
+
+#wicketbtn {
+    background-color: #FF6347;
+}
